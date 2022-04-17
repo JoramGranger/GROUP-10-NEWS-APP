@@ -1,0 +1,4 @@
+#Mon Apr 11 06:52:41 EAT 2022
+base.0=C\:\\Users\\JORAM\\Documents\\DEVELOPER\\FLUTTER\\news1\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
