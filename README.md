@@ -9,8 +9,9 @@ Its intended to demonstrate the knowledge acquired from CSC-3112.
 
 ## Group 10 Members
 
-1. Timothy Amio
-2. Pamela Natukunda
-3. Marvin Joshua Chelengat
-4. Simon Peter Odok
-5. Andrew Joram Kiyemba
+1. Andrew Joram Kiyemba
+2. Timothy Amio
+3. Pamela Natukunda
+4. Marvin Joshua Chelengat
+5. Simon Peter Odok
+
