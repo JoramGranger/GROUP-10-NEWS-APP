@@ -4,7 +4,7 @@ A course work project for CSC3112 - Principles of Programming.
 
 ## Getting Started
 
-This project is a news feed application done by group 10.
+This is programming project for a news feed application done by group 10.
 Its intended to demonstrate the knowledge acquired from CSC3112.
 
 ## Group 10 Members
