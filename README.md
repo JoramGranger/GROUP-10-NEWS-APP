@@ -4,10 +4,10 @@ A course work project for CSC3112 - Principles of Programming.
 
 ## Getting Started
 
-This project is is a news feed application done by group 11.
+This project is a news feed application done by group 10.
 Its intended to demonstrate the knowledge acquired from CSC3112.
 
-## Group 11 Members
+## Group 10 Members
 1. Timothy Amio
 2. Pamela Natukunda
 3. Marvin Joshua Chelengat
